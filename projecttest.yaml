@@ -10,5 +10,5 @@ spec:
   environment: []
   type: website
   lifecycle: experimental
-  owner: default:user/shreejit.bhattacharyya
+  owner: user:default/shreejit.bhattacharyya
   system: examples
