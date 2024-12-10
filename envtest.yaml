@@ -4,6 +4,7 @@ metadata:
   name: dev
   description: "testing..........."
   members: ["default:user/shreejit.bhattacharyya"]
+  backend_confifg : '{"containerName":"devexfile","storageAccountName":"devexstatefile","useDefaultBackend":true}'
 spec:
   belongsTo: project1
   type: website
