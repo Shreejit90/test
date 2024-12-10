@@ -2,7 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Environment
 metadata:
   name: dev
-  description: "testing..........."  
+  description: "testing..........."
+  members: ["default:user/shreejit.bhattacharyya"]
 spec:
   belongsTo: project1
   type: website
