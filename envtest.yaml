@@ -7,7 +7,6 @@ metadata:
   backend_confifg : '{"containerName":"devexfile","storageAccountName":"devexstatefile","useDefaultBackend":true}'
 spec:
   belongsTo: project1
-  type: website
   lifecycle: experimental
   owner: user:default/shreejit.bhattacharyya
   system: examples
