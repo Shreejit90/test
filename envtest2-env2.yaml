@@ -3,9 +3,9 @@ kind: Environment
 metadata:
   name: test
   description: "testing..........."
-  namespace: project1
+  namespace: project2
 spec:
-  belongsTo: project1
+  belongsTo: project2
   lifecycle: experimental
   owner: user:default/shreejit.bhattacharyya
   members: ["default:user/shreejit.bhattacharyya"]
