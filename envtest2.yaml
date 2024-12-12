@@ -3,6 +3,7 @@ kind: Environment
 metadata:
   name: dev
   description: "testing..........."
+  namespace: project2
 spec:
   belongsTo: project2
   lifecycle: experimental
